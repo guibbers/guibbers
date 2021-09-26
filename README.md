@@ -1,7 +1,5 @@
 ### Hi there, my name is Guilherme! 😃
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at an EdTech called "Jovens Gênios" as a Jr. Fullstack Developer.
 
 <div align="center">
