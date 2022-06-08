@@ -1,6 +1,6 @@
 ### Hi there, my name is Guilherme! 😃
 
-- 🔭 I’m currently working at an EdTech called "Jovens Gênios" as a Jr. Fullstack Developer.
+- 🔭 I’m currently working at a HealthTech called "EcoDoctor" as a Jr. Fullstack Developer.
 
 <div align="center">
   <a href="https://github.com/guibbers">
