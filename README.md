@@ -1,6 +1,6 @@
 ### Hi there, my name is Guilherme! 😃
 
-- 🔭 Fullstack developer.
+- 🔭 Fullstack developer with experience in Vue.js, Nuxt.js, Node.js and Supabase.
 
 <div align="center">
   <a href="https://github.com/guibbers">
