@@ -10,7 +10,7 @@
 - 🎓 Graduated in Systems Development and Analysis (Finished in 2023)  
 - 💻 Working as a web developer since 2021  
 
-Feel free to check out my (latest project)[https://github.com/guibbers/react-link-shortener]!
+Feel free to check out my [latest project](https://github.com/guibbers/react-link-shortener)!
 
 ---
 
